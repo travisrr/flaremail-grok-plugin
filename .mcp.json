@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "flaremail": {
+      "type": "http",
+      "url": "https://flaremail-api.tcrxx0.workers.dev/mcp",
+      "note": "FlareMail hosted MCP. Grok discovers OAuth from the server; on first use it opens a browser so the user can sign in to FlareMail. No API key in this config. Tools send as the authenticated user's mailbox."
+    }
+  }
+}

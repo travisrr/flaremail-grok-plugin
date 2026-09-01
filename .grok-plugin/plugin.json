@@ -1,0 +1,18 @@
+{
+  "name": "flaremail",
+  "version": "1.0.0",
+  "description": "Read, draft, and send mail from a FlareMail account via the hosted MCP server. OAuth in the browser on first connect.",
+  "author": {
+    "name": "FlareMail",
+    "url": "https://sendwithflare.com"
+  },
+  "repository": "https://github.com/travisrr/flaremail-grok-plugin",
+  "homepage": "https://sendwithflare.com/help/mcp-bots/",
+  "license": "MIT",
+  "keywords": [
+    "flaremail",
+    "flare mail",
+    "sendwithflare",
+    "flaremail mcp"
+  ]
+}
